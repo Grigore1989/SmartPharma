@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartPharma</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="home_screen_label">Home Screen</string>
+    <string name="pacients_monitoring_label">Pacients Monitoring</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="pacients_button_text">Monitorizare Pacienti</string>
+</resources>
